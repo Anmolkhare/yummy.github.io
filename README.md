@@ -1,2 +1,0 @@
-# yummy.github.io
-tectingweb
